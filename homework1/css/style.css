@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: georgia, times, Times New Roman, serif;
+}
+img{
+	max-width: 100%;
+}
