@@ -9,3 +9,6 @@ body{
 img{
 	max-width: 100%;
 }
+.wrapper{
+	max-height: 300px
+}
