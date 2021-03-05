@@ -55,9 +55,13 @@ img{
 	}
 .sub-menu{
 	position: absolute;
-	right: 0;
+	right: 10px;
 	top: 100%;
 	display: none;
+	text-align: center;
+}
+.sub-menu a{
+	margin: 15px;
 }
 .menu a{
 	text-decoration: none;
@@ -103,4 +107,7 @@ img{
 .menu li{
 	display: inline-block;
 	margin-left: 30px;
+}
+#homework1 .article img{
+	max-height: none;
 }
