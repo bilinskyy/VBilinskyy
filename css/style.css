@@ -5,11 +5,13 @@
 }
 body{
 	font-family: 'Gotham Pro';
-	src: url('GothamPro-BoldItalic.eot');
-	src: local('Gotham Pro Bold Italic'), local('GothamPro-BoldItalic'),
-		url('GothamPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
-		url('GothamPro-BoldItalic.woff') format('woff'),
-		url('GothamPro-BoldItalic.ttf') format('truetype');
+	src: url('fonts/GothamPro-Medium.eot');
+	src: local('Gotham Pro Medium'), local('GothamPro-Medium'),
+		url('fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('fonts/GothamPro-Medium.woff') format('woff'),
+		url('fonts/GothamPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
 	background-color: #1b1a1c;
 }
 img{
